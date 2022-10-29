@@ -1,4 +1,4 @@
-# Projeto-Sobre-Banco-de-Dados
+# Projeto-Dio-Banco-De-Dados MYSQL
 
 Projeto de Banco de dados em junção da Prof. Juliana Mascarenhas, DIO (Digital Innovation One Inc.)
 
